@@ -26,7 +26,7 @@ Both models perform near random-chance level (~19-24% accuracy on a 5-class prob
 
 ### Classification Report
 
-![Classification Report](assets/Classification_report.png)
+![Classification Report](assets/Classification_Report.png)
 ![Classification Report](assets/Report002.png)
 
 ### Grouped Report
