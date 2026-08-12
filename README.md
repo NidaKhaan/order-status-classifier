@@ -22,11 +22,11 @@ Both models perform near random-chance level (~19-24% accuracy on a 5-class prob
 
 ### Confusion Matrix
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](assets/Confusion_matrix.png)
 
 ### Classification Report
 
-![Classification Report](assets/classification_report.png)
+![Classification Report](assets/Classification_report.png)
 ![Classification Report](assets/Report002.png)
 
 ### Grouped Report
